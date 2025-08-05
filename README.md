@@ -154,7 +154,7 @@ MIT License — see [`LICENSE`](./LICENSE)
 
 Pull requests and issues are welcome!
 
-If you have feature requests, bug reports, or ideas to improve this tool, feel free to open an [issue](https://github.com/tectobi/check-docker-compose-ports/issues).
+If you have feature requests, bug reports, or ideas to improve this tool, feel free to open an [issue](https://github.com/TecTobi/check-docker-compose-ports/issues).
 
 ---
 
