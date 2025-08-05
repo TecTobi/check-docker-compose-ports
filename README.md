@@ -22,7 +22,7 @@ A robust CLI tool to **inspect**, **audit**, and optionally **fix** ports define
 ### 🔸 Clone & Install in a Virtual Environment
 
 ```bash
-git clone https://github.com/yourusername/check-docker-compose-ports.git
+git clone https://github.com/tectobi/check-docker-compose-ports.git
 cd check-docker-compose-ports
 python3 -m venv venv
 source venv/bin/activate
@@ -32,7 +32,7 @@ pip install -e .
 ### 🔸 (Optional) Global Installation with pipx
 
 ```bash
-pipx install git+https://github.com/yourusername/check-docker-compose-ports.git
+pipx install git+https://github.com/tectobi/check-docker-compose-ports.git
 ```
 
 ---
