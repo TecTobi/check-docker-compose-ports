@@ -1,4 +1,4 @@
-# 🔍 check-docker-compose-ports
+# 🔍 check-docker-compose-ports (v. 1.0.0)
 
 A robust CLI tool to **inspect**, **audit**, and optionally **fix** ports defined in your `docker-compose.yml` file. Detect conflicts with system processes or running Docker containers, resolve them interactively or automatically, and keep your `.env` files and Compose files clean and conflict-free.
 
