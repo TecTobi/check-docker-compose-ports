@@ -170,5 +170,5 @@ If you have feature requests, bug reports, or ideas to improve this tool, feel f
 ## ✨ Star this project if it helped you!
 
 ```
-⭐ GitHub: https://github.com/tectobi/check-docker-compose-ports
+⭐ GitHub: https://github.com/TecTobi/check-docker-compose-ports
 ```
