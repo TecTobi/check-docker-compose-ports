@@ -1,4 +1,4 @@
-# 🔍 check-docker-compose-ports
+# 🔍 check-docker-compose-ports (v. 1.0.0)
 
 A robust CLI tool to **inspect**, **audit**, and optionally **fix** ports defined in your `docker-compose.yml` file. Detect conflicts with system processes or running Docker containers, resolve them interactively or automatically, and keep your `.env` files and Compose files clean and conflict-free.
 
@@ -22,7 +22,7 @@ A robust CLI tool to **inspect**, **audit**, and optionally **fix** ports define
 ### 🔸 Clone & Install in a Virtual Environment
 
 ```bash
-git clone https://github.com/yourusername/check-docker-compose-ports.git
+git clone https://github.com/tectobi/check-docker-compose-ports.git
 cd check-docker-compose-ports
 python3 -m venv venv
 source venv/bin/activate
@@ -32,7 +32,7 @@ pip install -e .
 ### 🔸 (Optional) Global Installation with pipx
 
 ```bash
-pipx install git+https://github.com/yourusername/check-docker-compose-ports.git
+pipx install git+https://github.com/tectobi/check-docker-compose-ports.git
 ```
 
 ---
@@ -170,5 +170,5 @@ If you have feature requests, bug reports, or ideas to improve this tool, feel f
 ## ✨ Star this project if it helped you!
 
 ```
-⭐ GitHub: https://github.com/tectobi/check-docker-compose-ports
+⭐ GitHub: https://github.com/TecTobi/check-docker-compose-ports
 ```
